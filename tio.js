@@ -35,7 +35,7 @@ const tengah = moment.tz('Asia/Makassar').format('HH:mm:ss')
 const timur = moment.tz('Asia/Jayapura').format('HH:mm:ss')
 const esce = ('© Lann')
 //Apikey
-const lannkey = ('Lann')//Register Di https://api.lannn.me dapetin key di profile lalu salin
+const lannkey = ('')//Register Di https://api.lannn.me dapetin key di profile lalu salin
 
 const ini_kangbaned = `0@s.whatsapp.net`
 const ownernya = ownernomer + '@s.whatsapp.net'
