@@ -1,0 +1,13 @@
+{
+	"name": "Hoream-MD",
+	"description": "WhatsApp Bot Using Lib Baileys",
+	"repository": "https://github.com/BOTCAHX/Hoream-MD",
+	"logo": "https://node-js-sample.herokuapp.com/node.png",
+	"keywords": [
+    "WhatsApp",
+    "Bot",
+    "WhatsApp",
+    "Api",
+    "Baileys"
+  ]
+}
